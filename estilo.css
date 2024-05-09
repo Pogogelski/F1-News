@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.card-image{
+    transition: 1s;
+}
+
+
+.card-image:hover {
+    transform: scale(1.1);
+}
+
+h1{
+    font-size: x-large;
+}
+
+
+
+b{
+    color: black;
+}
+
+label{
+color: black;
+}
